@@ -1,0 +1,47 @@
+<annotation>
+    <filename>300056.jpg</filename>
+    <source>
+        <annotation>ESRI ArcGIS Pro</annotation>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>0</name>
+        <bndbox>
+            <xmin>0.00</xmin>
+            <ymin>36.06</ymin>
+            <xmax>3.55</xmax>
+            <ymax>69.31</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>0</name>
+        <bndbox>
+            <xmin>0.00</xmin>
+            <ymin>80.44</ymin>
+            <xmax>13.16</xmax>
+            <ymax>115.44</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>0</name>
+        <bndbox>
+            <xmin>0.00</xmin>
+            <ymin>0.00</ymin>
+            <xmax>4.02</xmax>
+            <ymax>28.50</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>0</name>
+        <bndbox>
+            <xmin>0.00</xmin>
+            <ymin>124.76</ymin>
+            <xmax>16.20</xmax>
+            <ymax>158.07</ymax>
+        </bndbox>
+    </object>
+</annotation>
